@@ -84,7 +84,7 @@ path/to/image,image_height,image_width
 ### `localization.txt`
 Each row corresponds to one image and has five entries:
 ```
-path/to/image,x_min,x_max,y_min,y_max
+path/to/image,x_min,y_min,x_max,y_max
 ```
 
 # Download Links
