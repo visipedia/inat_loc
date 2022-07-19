@@ -88,6 +88,9 @@ path/to/image,x_min,x_max,y_min,y_max
 ```
 
 # Download Links
+* Amazon S3
+  * [Images](https://ml-inat-competition-datasets.s3.amazonaws.com/inatloc/iNatLoc.tar.gz) (18.9 GB, `md5sum f9394137ddbff3919fe805c6dd8f22cb`)
+  * [Metadata](https://ml-inat-competition-datasets.s3.amazonaws.com/inatloc/metadata_choe.zip) (32.4 MB, `md5sum 5ae02339a005574b3c6757309e9872ed`)
 * [Caltech Research Data Repository](https://data.caltech.edu/records/20229)
   * [Images](https://data.caltech.edu/tindfiles/serve/a3a9d489-01a2-4727-8496-a8a5b411ff0b/) (18.9 GB)
   * [Metadata](https://data.caltech.edu/tindfiles/serve/59e7b6ba-37f1-49a2-85da-ece1593b1e44/) (32.4 MB)
