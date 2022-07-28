@@ -13,7 +13,7 @@ Test | 500 | 12.5k | 25 | Yes | Yes | Localization evaluation
 
 ## Label Hierarchy
 
-iNatLoc500 is equipped with a label hierarchy based on the biological tree of life. The levels of the label hierarchy are (from finest to coarsest): `species`, `genus`, `family`, `order`, `class`, `phylum`, `kingdom`. Since all of the species in iNatLoc500 are animals, the `kingdom` level has only one node (`Animalia`), which is marked with a red dot below. The iNatLoc500 dataset can be labeled at any level of the label hierarchy. For convenience we provide metadata files for each level of the label hierarchy, as described [here](dataset/README.md).
+iNatLoc500 is equipped with a label hierarchy based on the biological tree of life. The levels of the label hierarchy are (from finest to coarsest): `species`, `genus`, `family`, `order`, `class`, `phylum`, `kingdom`. Since all of the species in iNatLoc500 are animals, the `kingdom` level has only one node (`Animalia`). The iNatLoc500 dataset can be labeled at any level of the label hierarchy. For convenience we provide metadata files for each level of the label hierarchy, as described [here](dataset/README.md).
 
 ![iNatLoc500 Label Hierarchy](assets/inatloc500_label_hierarchy.jpg)
 
