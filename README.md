@@ -1,3 +1,5 @@
+![Banner](assets/banner.jpg)
+
 # The iNatLoc500 Dataset
 The iNaturalist Localization 500 (iNatLoc500) dataset is a large-scale fine-grained dataset for weakly supervised object localization (WSOL).
 
