@@ -7,9 +7,11 @@ The iNaturalist Localization 500 (iNatLoc500) dataset is a large-scale fine-grai
 
 Split | # Species | # Images | Avg. # Images per Species | Image-Level Labels? | Bounding Boxes? | Purpose
 --- | --- | --- | --- | --- | --- | ---
-Train | 500 | 138k | 276 | Yes | No | Classifier training
-Val | 500 | 12.5k | 25 | Yes | Yes | Localization evaluation
-Test | 500 | 12.5k | 25 | Yes | Yes | Localization evaluation
+`train` | 500 | 138k | 276 | Yes | No | Classifier training
+`val` | 500 | 12.5k | 25 | Yes | Yes | Localization evaluation
+`test` | 500 | 12.5k | 25 | Yes | Yes | Localization evaluation
+
+Each image in the `val` and `test` splits has been checked to ensure that exactly one instance of the species of interest is present and that the bounding box is accurate. Full details on the dataset construction process can be found in [the paper](https://arxiv.org/abs/2207.10225). 
 
 ## Label Hierarchy
 
