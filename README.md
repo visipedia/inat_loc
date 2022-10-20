@@ -23,7 +23,7 @@ iNatLoc500 is equipped with a label hierarchy based on the biological tree of li
 Instructions for downloading the dataset can be found [here](dataset/README.md). 
 
 # Extras
-* [`mappings`](dataset/README.md): Files that link iNatLoc500 images to their sources in iNat17 and iNat21. 
+* [`mappings`](mappings/): Files that link iNatLoc500 images to their sources in iNat17 and iNat21. 
 
 # Reference
 If you find our work useful in your research please consider citing our paper:  
