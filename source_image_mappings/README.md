@@ -1,4 +1,4 @@
-# Mappings
+# Source Image Mappings
 
 iNatLoc500 is drawn from iNat17 and iNat21. The files in this directory map the each image in iNatLoc500 to its source dataset. There are three files, one for each split:
 * `inatloc500_image_mapping_train.txt`
