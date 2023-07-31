@@ -1,3 +1,6 @@
+# Author: Mingxuan, Liu
+# Put this file under iNatLoc500 dataset root to correct the annotation
+
 import json
 # from PIL import Image
 # import imagesize

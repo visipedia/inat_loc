@@ -1,5 +1,0 @@
-Chordata,0
-Cnidaria,1
-Arthropoda,2
-Echinodermata,3
-Mollusca,4
